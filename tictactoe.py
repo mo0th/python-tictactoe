@@ -108,7 +108,7 @@ def get_player_turn():
 
 
 def main():
-    # os.system('')
+    os.system('')
 
     while is_complete() == False:
         draw_grid(squares)
