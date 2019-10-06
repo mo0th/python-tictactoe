@@ -119,6 +119,8 @@ def main():
     if is_complete != 'tie':
         print(
             f"Player {'1 [X' if xIsNext else '2 [O'}] has won. Player 2 sucks!")
+    else:
+        print("Both of you suck! Get a life!")
 
 
 if __name__ == '__main__':
