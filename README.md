@@ -7,4 +7,4 @@ A console version of Tic Tac Toe made in python3.
 - ✔ Linux bash
 
 **Untested in:**
-- ✔ MacOS terminal
+- ❌ MacOS terminal
